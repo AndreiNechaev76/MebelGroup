@@ -56,3 +56,8 @@ node_modules/
 # webstorm user setting files
 .idea
 
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
